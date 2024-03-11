@@ -6,8 +6,18 @@ This file give you the Idea about the data we are using for building the dashboa
 Tablue public link 
 https://public.tableau.com/app/profile/ayushi.bisht/viz/Netflix_17101362337220/Netflix?publish=yes
 
+Objective:
+Developed a comprehensive Tableau dashboard that visualizes Netflix usage and content popularity trends across various countries.
+Merged multiple datasets to create an integrated view of subscriber behavior, content ratings, and genre popularity.
+Implemented data cleansing and transformation processes to ensure accuracy and consistency in reporting.
+Designed interactive visualizations to enable stakeholders to filter data by region, genre, and time period, providing a tailored analytical experience.
+Conducted a thorough analysis of viewing patterns to identify regional preferences and content consumption habits.
+Utilized advanced Tableau features like calculated fields, parameters, and sets to create dynamic, user-driven reports.
+The dashboard served as a decision-making tool for marketing strategy, providing insights into potential markets for expansion and content development.
+Presented findings to peers and faculty, receiving commendation for clarity of presentation and depth of analysis.
 
-This will solve the velow business problems:
+
+This will solve the Below business problems:
 Question: What are the top 5 countries producing the most content on Netflix?
 
 Answer: (Based on your visualization, list the top 5 countries producing the most Netflix content.)
